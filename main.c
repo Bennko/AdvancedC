@@ -5,10 +5,8 @@
 #include "directoryControl.h"
 #include "fileControl.h"
 #include "adminControl.h"
-#include "utils.h"
 #include "main.h"
 
-// Free the filetree
 int main()
 {
     Filetree *filetree;
